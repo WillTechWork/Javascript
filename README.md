@@ -1,4 +1,11 @@
 # Javascript - Introdução
+
+- Ele é executado por baixo dos panos, no navegador, por um motor, uma engine, ou seja, interpretador do javascript, está presente em todos os browsers, em alguns dispositivos móveis e dispositivos embarcados.
+  
+- Se encontra em sites, aplicativos, progressive web app, ou seja, se utiliza javascript, seja no front-end, back-end, como também no banco de dados, apps híbridos, aqueles aplicativos smartphones híbridos que são desenvolvidos para smartphones, tablets, aplicativos que não são desenvolvidos através de uma linguagem puramente nativa. Algumas bibliotecas são capazes também de interpretar o javascript para você trabalhar na interface de aplicativos, tanto IOS, como também ANDROID e foi aplicado de forma ponta-a-ponta, pois existem soluções para banco de dados, ou seja, caso você queira criar ou controlar através do javascript, como também acontece através do MongoDB e Mongo Data Base.
+  
+- Temos o back-end como o principal framework, principal biblioteca javascript, como o NodeJS e para o front-end, temos aquele universo maior de aplicações, de bibliotecas e de frameworks puramente para trabalhar com o javascript. O javascript, ele interagi com o DOM, a árvore de objetos HTML, aquele que você controla a visualização dos navegadores. O DOM também é uma API web e é baseada em javascript, ele trabalha também com requisições dinâmicas, vemos que no HTML, CSS, você consegue codificar, inserir chamadas de imagens e de outros arquivos de modo estático, primeiramente você escolhe o documento HTML e ele acaba sendo mais estático, isso ocorre porque não existe dinâmica nele, e o adicionamento do javascript, com isso você consegue o controle de requisições da página e de modo dinâmico. No click do mouse você consegue chamar o CSS, carregar uma outra imagem e esse processo é muito utilizado pelo javascript, então é isso que muitos frameworks utilizam no javascript para fazer requisições dinâmicas por de trás do HTML, também temos aplicações javascript para IoT (Internet of things), internet das coisas, de certa forma ele está presente em tudo, como o conhecemos de forma resumida: JS, mas também conhecido de forma popular: javascript / ECMAscript.
+  
 ![Javascript](https://cyberhoot.com/wp-content/uploads/2020/07/Free-Courses-to-learn-JavaScript-1024x576.jpg)
 
 # Javascript
