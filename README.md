@@ -24,6 +24,11 @@
 - Método progressivo e integrado;
 - Todo império só é erguido depois de ter uma fundação robusta e segura.
 
+## Onde executar o JS
+- Console Browsers
+- Editores: Sublime, Visual Studio Code;
+- JS Fiddle https://jsfiddle.net/
+
 ## Funcionalidades Gerais
 - Criar algoritmos e programas para executar no navegador: cliente side;
 - Manipular o DOM: Elementos HTML, Eventos (Clique, Submit) e Estilos CSS;
@@ -34,11 +39,12 @@
 - Recebe e manipula DADOS;
 - Toma decisões baseadas na lógica computacional;
 - Condições de saída
-- 
-## Onde executar o JS
-- Console Browsers
-- Editores: Sublime, Visual Studio Code;
-- JS Fiddle https://jsfiddle.net/
+- Para sabermos se o Node.JS se encontra instalado, basta acessar o VS Code, acessar o terminar e digitar: node -v, para saber informações adicionais.
+- Caso apareça nenhuma informação de versão, seguir passo para instalação:
+
+## Instalação do Node.JS
+- Para a gente conseguir executar scripts JS no terminal de comando, precisamos utilizar o Node.JS
+- Instalação: https://node.js/pt-br/download/package-manager/
 
 # Javascript - Conceito
 - JavaScript (frequentemente abreviado como JS) é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma (protótipos, orientado a objeto, imperativo e funcional). Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. JavaScript permite páginas da Web interativas e, portanto, é uma parte essencial dos aplicativos da web. A grande maioria dos sites usa, e todos os principais navegadores têm um mecanismo JavaScript dedicado para executá-lo.
