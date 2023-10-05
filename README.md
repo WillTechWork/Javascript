@@ -23,7 +23,7 @@
 
 ## Metodologia JS
 - Método progressivo e integrado;
-- Todo arranha céu só é erguido depois de ter uma função robusta e segura.
+- Todo IMPÉRIO só é erguido depois de ter uma fundação robusta e segura.
 
 # Javascript - Conceito
 
