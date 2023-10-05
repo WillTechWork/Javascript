@@ -2,7 +2,17 @@
 ![Javascript](https://cyberhoot.com/wp-content/uploads/2020/07/Free-Courses-to-learn-JavaScript-1024x576.jpg)
 
 # Javascript
-- Estado do Javascript (https://2020.stateofjs.com/en-US/technologies/)
+- Estado do Javascript (https://2020.stateofjs.com/en-US/technologies/);
+- Onde é executado;
+- Omnipresente na Web;
+- App Híbridos;
+- Aplicação de ponta-a-ponta: banco de dados, back-end / front-end;
+- Interagir com DOM (api-web);
+- Requisições dinâmicas;
+- IoT (Internet das coisas): O JS está presente em tudo.
+## Fundamentos JS
+
+- Fundamentos do Javascript são essenciais para avançar no desenvolvimento de aplicações modernas, é a base de diversos frameworks.
 
 - JavaScript (frequentemente abreviado como JS) é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma (protótipos, orientado a objeto, imperativo e funcional). Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. JavaScript permite páginas da Web interativas e, portanto, é uma parte essencial dos aplicativos da web. A grande maioria dos sites usa, e todos os principais navegadores têm um mecanismo JavaScript dedicado para executá-lo.
 
