@@ -1,5 +1,4 @@
 # Javascript - Introdução
-
 - Ele é executado por baixo dos panos, no navegador, por um motor, uma engine, ou seja, interpretador do javascript, está presente em todos os browsers, em alguns dispositivos móveis e dispositivos embarcados.
   
 - Se encontra em sites, aplicativos, progressive web app, ou seja, se utiliza javascript, seja no front-end, back-end, como também no banco de dados, apps híbridos, aqueles aplicativos smartphones híbridos que são desenvolvidos para smartphones, tablets, aplicativos que não são desenvolvidos através de uma linguagem puramente nativa. Algumas bibliotecas são capazes também de interpretar o javascript para você trabalhar na interface de aplicativos, tanto IOS, como também ANDROID e foi aplicado de forma ponta-a-ponta, pois existem soluções para banco de dados, ou seja, caso você queira criar ou controlar através do javascript, como também acontece através do MongoDB e Mongo Data Base.
@@ -25,8 +24,23 @@
 - Método progressivo e integrado;
 - Todo império só é erguido depois de ter uma fundação robusta e segura.
 
-# Javascript - Conceito
+## Funcionalidades Gerais
+- Criar algoritmos e programas para executar no navegador: cliente side;
+- Manipular o DOM: Elementos HTML, Eventos (Clique, Submit) e Estilos CSS;
+- Node.JS: Framework JS para Back-end / runtime em JS;
+- Mongo.DB: Banco de dados em JS;
+- React / Vue.JS / Angular: Framework JS para desenvolvimento mobile;
+- React Native: Framework JS para desenvolvimento mobile;
+- Recebe e manipula DADOS;
+- Toma decisões baseadas na lógica computacional;
+- Condições de saída
+- 
+## Onde executar o JS
+- Console Browsers
+- Editores: Sublime, Visual Studio Code;
+- JS Fiddle https://jsfiddle.net/
 
+# Javascript - Conceito
 - JavaScript (frequentemente abreviado como JS) é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma (protótipos, orientado a objeto, imperativo e funcional). Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. JavaScript permite páginas da Web interativas e, portanto, é uma parte essencial dos aplicativos da web. A grande maioria dos sites usa, e todos os principais navegadores têm um mecanismo JavaScript dedicado para executá-lo.
 
 - É atualmente a principal linguagem para programação client-side em navegadores web. É também bastante utilizada do lado do servidor através de ambientes como o node.js.
