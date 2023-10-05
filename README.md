@@ -1,5 +1,5 @@
 # Javascript - Introdução
-- Ele é executado por baixo dos panos, no navegador, por um motor, uma engine, ou seja, interpretador do javascript, está presente em todos os browsers, em alguns dispositivos móveis e dispositivos embarcados.
+- Ele é executado por baixo dos panos, no navegador, por uma engine, ou seja, interpretador do javascript, está presente em todos os browsers, em alguns dispositivos móveis e dispositivos embarcados.
   
 - Se encontra em sites, aplicativos, progressive web app, ou seja, se utiliza javascript, seja no front-end, back-end, como também no banco de dados, apps híbridos, aqueles aplicativos smartphones híbridos que são desenvolvidos para smartphones, tablets, aplicativos que não são desenvolvidos através de uma linguagem puramente nativa. Algumas bibliotecas são capazes também de interpretar o javascript para você trabalhar na interface de aplicativos, tanto IOS, como também ANDROID e foi aplicado de forma ponta-a-ponta, pois existem soluções para banco de dados, ou seja, caso você queira criar ou controlar através do javascript, como também acontece através do MongoDB e Mongo Data Base.
   
