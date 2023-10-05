@@ -23,7 +23,7 @@
 
 ## Metodologia JS
 - Método progressivo e integrado;
-- Todo IMPÉRIO só é erguido depois de ter uma fundação robusta e segura.
+- Todo império só é erguido depois de ter uma fundação robusta e segura.
 
 # Javascript - Conceito
 
